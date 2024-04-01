@@ -1,8 +1,6 @@
 import matplotlib.pyplot as plt
 import xarray as xr
 import cartopy.crs as ccrs
-import matplotlib.animation as animation
-import numpy as np
 
 url = 'https://www.ncei.noaa.gov/thredds/dodsC/noaa-global-temp-v5/NOAAGlobalTemp_v5.0.0_gridded_s188001_e202212_c20230108T133308.nc'
 xrds = xr.open_dataset(url)
