@@ -11,7 +11,7 @@ Python code to access and plot the NOAA Global Surface Temperature Dataset (NOAA
 
 I would like to thank the authors of the data for making them openly available and FAIR.
 
-If you want to use the data publically, you should also give credit to the authors of the dataset by including the following recommended citation (change the access data at the end):
+If you want to use the data publicly, you should also give credit to the authors of the dataset by including the following recommended citation (change the access data at the end):
 
 H.-M. Zhang, B. Huang, J. H. Lawrimore, M. J. Menne, and T. M. Smith (2019): NOAA Global Surface Temperature Dataset (NOAAGlobalTemp), Version 5.0. NOAA National Centers for Environmental Information. doi:10.25921/9qth-2p70 [2024-03-28].
 
