@@ -278,4 +278,4 @@ writer = animation.FFMpegWriter(
     extra_args=['-vcodec', 'libx264']  # Better compression
 )
 
-ani.save('annual_anomalies_and_mean_subplot_high_quality.mp4', writer=writer)
+ani.save('annual_global_anomalies_and_mean_subplot.mp4', writer=writer)
