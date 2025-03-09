@@ -1,3 +1,6 @@
 matplotlib
 xarray
 cartopy
+numpy
+siphon
+netcdf4

@@ -13,18 +13,14 @@ I would like to thank the authors of the data for making them openly available a
 
 If you want to use the data publicly, you should also give credit to the authors of the dataset by including the following recommended citation (change the access data at the end):
 
-H.-M. Zhang, B. Huang, J. H. Lawrimore, M. J. Menne, and T. M. Smith (2019): NOAA Global Surface Temperature Dataset (NOAAGlobalTemp), Version 5.0. NOAA National Centers for Environmental Information. doi:10.25921/9qth-2p70 [2024-03-28].
+Huang, Boyin; Yin, Xungang; Menne, Matthew J.; Vose, Russell S.; and Zhang, Huai-Min. 2024.
+NOAA Global Surface Temperature Dataset (NOAAGlobalTemp), Version 6.0. [indicate subset used].
+NOAA National Centers for Environmental Information. https://doi.org/10.25921/rzxg-p717.
+Accessed [date].
 
 ## Where are the data
 
 Landing page for the data:
-https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C01585
+https://www.ncei.noaa.gov/products/land-based-station/noaa-global-temp
 
-OPeNDAP link to the data:
-https://www.ncei.noaa.gov/thredds/dodsC/noaa-global-temp-v5/NOAAGlobalTemp_v5.0.0_gridded_s188001_e202212_c20230108T133308.nc
-
-Append '.html' to the url above to access the OPeNDAP data access form.
-
-To find the latest version of the data, go to:
-https://www.ncei.noaa.gov/thredds/catalog/noaa-global-temp-v5/latest.html
 
